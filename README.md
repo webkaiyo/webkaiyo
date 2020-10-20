@@ -4,8 +4,7 @@
 💾 I've had experiences with SQLite, PostgreSQL and MongoDB.
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=webkaiyo&theme=dracula)](https://github.com/webkaiyo)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=webkaiyo&theme=dracula)](https://github.com/webkaiyo)<br>
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webkaiyo&theme=onedark)](https://github.com/webkaiyo)
 
 📚 I intend to learn C and C++, I will learn other languages ​​as needed.<br>
