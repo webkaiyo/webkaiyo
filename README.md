@@ -3,6 +3,7 @@
 I'm a brazilian Python developer with JavaScript skills.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=webkaiyo&theme=dracula)](https://github.com/webkaiyo)
+
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webkaiyo&theme=onedark)](https://github.com/webkaiyo)
 
 <!--
