@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Caio 👋
+
+I'm a brazilian Python developer with JavaScript skills.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=webkaiyo&theme=dracula)](https://github.com/webkaiyo)
 
 <!--
 **webkaiyo/webkaiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
