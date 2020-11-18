@@ -40,3 +40,4 @@ I'm not a programmer who likes badly made and disorganized code. Whenever possib
 #### Social medias
 Twitter: https://twitter.com/webkaiyo<br>
 Instagram: https://instagram.com/seethislandscape<br>
+E-mail: contato.kaiyo@gmail.com
