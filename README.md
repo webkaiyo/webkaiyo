@@ -1,12 +1,42 @@
-### Hi there, I'm Caio 👋
+## I was waiting for you ✨
+Hi there, my name is Caio Alexandre (pronunciation: `k-ay-oh`), I'm a developer looking for new adventures in the cosmos. ☄
 
-💻 I'm a brazilian Python developer with JavaScript skills.<br>
-💾 I've had experiences with SQLite, PostgreSQL and MongoDB.
+### Skillset
+This is my current skillset, remembering that this list is always expanding!
 
+| Technology | Skill level  |
+| ---------- | -----------  |
+|   Python   |  Proficient  |
+|   NodeJS   | Considerable |
+|   Express  | Considerable |
+|    Rust    |   Minimal    |
+|    C++     |   Minimal    |
+| PostgreSQL | Considerable |
+|   SQLite   |   Minimal    |
+|   MongoDB  |   Minimal    |
+|    Java    |   Minimal    |
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=webkaiyo&theme=dracula)](https://github.com/webkaiyo)<br>
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webkaiyo&theme=onedark)](https://github.com/webkaiyo)
+As you can see, I am still a junior programmer, with a great desire for knowledge and never being limited.
 
-📚 I intend to learn C and C++, I will learn other languages ​​as needed.<br>
-🎮 I want to become a full stack developer and also work with game development.<br>
-📫 You can talk to me on Twitter [@webkaiyo](https://twitter.com/webkaiyo).
+### Learning intentions
+Here is the list of technologies that I intend to improve to become proficient, also remembering that this list can be changed according to my needs!
+
+| Technology |
+| ---------- |
+|   NodeJS   |
+|    Rust    |
+|     C      |
+|    C++     |
+| PostgreSQL |
+|  GDScript  |
+
+### My "playstyle"
+I'm not a programmer who likes badly made and disorganized code. Whenever possible, I optimize my codes (limiting myself only to my knowledge of the language) and always follow the styling conventions of the adopted language. I currently use VSCode to code but I've had experiences with PyCharm, Sublime Text 3 and Atom. I have experiences with Linux but never really used it (as much as I really wanted to).
+
+### Some stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=webkaiyo&theme=dracula&show_icons=true)](https://github.com/webkaiyo)<br>
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webkaiyo&theme=onedark)](https://github.com/webkaiyo)<br>
+
+#### Social medias
+Twitter: https://twitter.com/webkaiyo<br>
+Instagram: https://instagram.com/seethislandscape<br>
