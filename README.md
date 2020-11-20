@@ -16,7 +16,7 @@ This is my current skillset, remembering that this list is always expanding!
 |   MongoDB  |   Minimal    |
 |    Java    |   Minimal    |
 |    Git     | Considerable |
-    Linux    |   Minimal    |
+|   Linux    |   Minimal    |
 
 As you can see, I am still a junior programmer, with a great desire for knowledge and never being limited.
 
