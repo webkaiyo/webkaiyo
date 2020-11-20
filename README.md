@@ -16,6 +16,7 @@ This is my current skillset, remembering that this list is always expanding!
 |   MongoDB  |   Minimal    |
 |    Java    |   Minimal    |
 |    Git     | Considerable |
+    Linux    |   Minimal    |
 
 As you can see, I am still a junior programmer, with a great desire for knowledge and never being limited.
 
@@ -25,11 +26,14 @@ Here is the list of technologies that I intend to improve to become proficient, 
 | Technology |
 | ---------- |
 |   NodeJS   |
+|   Express  |
 |    Rust    |
 |     C      |
 |    C++     |
 | PostgreSQL |
 |  GDScript  |
+|    Git     |
+|   Linux    |
 
 ### My "playstyle"
 I'm not a programmer who likes badly made and disorganized code. Whenever possible, I optimize my codes (limiting myself only to my knowledge of the language) and always follow the styling conventions of the adopted language. I currently use VSCode to code but I've had experiences with PyCharm, Sublime Text 3 and Atom. I have experiences with Linux but never really used it (as much as I really wanted to).
