@@ -15,6 +15,7 @@ This is my current skillset, remembering that this list is always expanding!
 |   SQLite   |   Minimal    |
 |   MongoDB  |   Minimal    |
 |    Java    |   Minimal    |
+|    Git     | Considerable |
 
 As you can see, I am still a junior programmer, with a great desire for knowledge and never being limited.
 
